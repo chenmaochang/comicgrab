@@ -4,4 +4,4 @@ spring:
    name: comicgrab-config-client
    profile: dev
    label: master
-   uri: http://localhost:3344
+   uri: http://localhost:3344 
