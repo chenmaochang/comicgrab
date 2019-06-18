@@ -1,0 +1,7 @@
+spring: 
+ cloud: 
+  config: 
+   name: comicgrab-config-client
+   profile: dev
+   label: master
+   uri: http://localhost:3344

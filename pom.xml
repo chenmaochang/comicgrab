@@ -88,5 +88,7 @@
 	<modules>
 		<module>comicgrab-api</module>
 		<module>comicgrab-config</module>
+		<module>comicgrab-config-client</module>
+		<module>comicgrab-euraka-7001</module>
 	</modules>
 </project>

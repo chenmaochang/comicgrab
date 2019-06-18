@@ -1,6 +1,9 @@
+server: 
+  port: 3344 
+  
 spring:
   application:
-    name:  microservicecloud-config
+    name:  comicgrab-config
   cloud:
     config:
       server:

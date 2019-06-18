@@ -1,0 +1,10 @@
+spring: 
+ cloud: 
+  config: 
+   name: comicgrab-euraka
+   profile: dev
+   label: master
+   uri: http://localhost:3344
+ 
+
+ 
