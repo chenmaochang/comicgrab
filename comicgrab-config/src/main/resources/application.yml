@@ -1,5 +1,8 @@
 server: 
   port: 3344 
+  jetty: 
+    acceptors: 2
+    selectors: 2
   
 spring:
   application:
