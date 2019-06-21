@@ -97,5 +97,6 @@
 		<module>comicgrab-config</module>
 		<module>comicgrab-config-client</module>
 		<module>comicgrab-euraka-7001</module>
+		<module>comicgrab-provider</module>
 	</modules>
 </project>
